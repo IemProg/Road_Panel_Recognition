@@ -1,5 +1,7 @@
 Welcome to the **Road_Panel_Recognition**!
 
+A full picture of the project [[https://github.com/IemProg/Road_Panel_Recognition/blob/master/18518123_1418681988152515_1968044336198430922_o.jpg]]
+
 # How it works:
 It's an embedded systems which uses machine learning to detect road panels caputured from Camera attached to RaspberryPi, which controls a robotic car.
 
